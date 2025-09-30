@@ -11,15 +11,13 @@ Jeg er spesielt interessert i programmering, systemutvikling og teknologi som ve
 - Databaser: SQL, databaseadministrasjon og design
 
 ## Prosjekter
-- 🎮 **Simon Says-spill (Arduino)** – interaktivt spill laget med C++ og sensorteknologi  
-- 🕶️ **VR-spillutvikling (Unity)** – utviklet VR-spill med C++ og Unity for realistisk brukeropplevelse  
+- 🎮 **Simon Says-spill (Arduino)** – interaktivt spill laget med sensorteknologi  
+- 🕶️ **VR-spillutvikling (Unity)** – utviklet VR-spill med python og Unity for realistisk brukeropplevelse  
 - 📊 **Business Lean-prosjekt** – modell for prosessforbedring og økt produktivitet  
-- 📂 **Små prosjekter** – diverse Python- og JavaScript-snutter (kommer fortløpende)
+- 📂 **Små prosjekter** – diverse Python-JavaScript-snutter og småe front end prosjekt 
 
 ## Kontakt
 - ✉️ jpostjern@gmail.com  
-- 🔗 [LinkedIn-profil (legg inn lenken hvis du har)]  
 
 ---
 
-> Denne profilen oppdateres fortløpende med nye prosjekter, både fra studier og egne initiativ.
